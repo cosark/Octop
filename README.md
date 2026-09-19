@@ -286,6 +286,10 @@ Open `http://localhost:8088`. First boot creates the admin account and writes th
 
 See [`.env.example`](.env.example) for the full list.
 
+## ☁️ One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Octop/)
+
 ## 📑 Contents
 
 - [Highlights](#-highlights)
